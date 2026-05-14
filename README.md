@@ -2,8 +2,7 @@
 
 Small lead capture app: a public form that saves to Supabase and forwards each submission to a webhook.
 
-**Live URL:** https://TODO-add-vercel-url-here.vercel.app
-
+**Live URL:** https://lead-capture-app-lyart.vercel.app
 ## Stack
 
 - Next.js 14 (App Router) + TypeScript
@@ -20,8 +19,7 @@ Small lead capture app: a public form that saves to Supabase and forwards each s
 ## Running locally
 
 ```bash
-git clone <repo-url>
-cd lead-capture-app
+git clone https://github.com/Qliang15/Lead-Capture-App.gitcd lead-capture-app
 npm install
 ```
 
